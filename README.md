@@ -16,7 +16,7 @@ BS3 ucket Policy for public access
 
 ##Architecture
 User Browser -> Internet -> S3 Bucket -> index.html
-Architecture Diagram.pdf
+
 ## Result
 The HTML page is served directly from the S3 bucket.
 
